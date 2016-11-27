@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <ListPreference
+            android:title="Distance Preference"
+            android:key="distance"
+            android:summary="%s"
+            android:defaultValue="1"
+            android:entries="@array/DistanceEntries"
+            android:entryValues="@array/DistanceValues"/>
+
+
+        <ListPreference
+            android:title="Supermarket Preference"
+            android:key="supermarket"
+            android:summary="%s"
+            android:defaultValue="1"
+            android:entries="@array/SupermarketEntries"
+            android:entryValues="@array/SupermarketValues"/>
+
+
+
+    <ListPreference
+        android:title="Coffee Shop Preference"
+        android:key="coffeeshop"
+        android:summary="%s"
+        android:defaultValue="1"
+        android:entries="@array/CoffeeshopEntries"
+        android:entryValues="@array/CoffeeshopValues"/>
+
+
+
+    <ListPreference
+        android:title="Shopping Mall Preference"
+        android:key="shoppingmall"
+        android:summary="%s"
+        android:defaultValue="1"
+        android:entries="@array/ShoppingmallEntries"
+        android:entryValues="@array/ShoppingmallValues"/>
+
+    <ListPreference
+        android:title="Cinema Preference"
+        android:key="cinema"
+        android:summary="%s"
+        android:defaultValue="1"
+        android:entries="@array/CinemaEntries"
+        android:entryValues="@array/CinemaValues"/>
+
+
+    <ListPreference
+        android:title="Bar Preference"
+        android:key="bar"
+        android:summary="%s"
+        android:defaultValue="1"
+        android:entries="@array/BarEntries"
+        android:entryValues="@array/BarValues"/>
+
+
+    <ListPreference
+        android:title="Restaurant Preference"
+        android:key="restaurant"
+        android:summary="%s"
+        android:defaultValue="1"
+        android:entries="@array/RestaurantEntries"
+        android:entryValues="@array/RestaurantValues"/>
+
+
+
+
+
+
+</PreferenceScreen>

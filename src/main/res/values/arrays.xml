@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Vehicle">
+        <item>BMW i3</item>
+        <item>Chevrolet Spark EV</item>
+        <item>Chevrolet Bolt</item>
+        <item>Fiat 500e</item>
+        <item>Ford Focus Electric</item>
+        <item>Kia Soul EV</item>
+        <item>Mercedes B-Class Electric Drive</item>
+        <item>Mitsubishi i-MiEV</item>
+        <item>Nissan LEAF</item>
+        <item>Smart Electric Drive</item>
+        <item>Tesla Model S</item>
+        <item>Tesla Model X</item>
+        <item>Tesla Model 3</item>
+        <item>Volkswagen E-Golf</item>
+    </string-array>
+    <string-array name="VehicleValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="DistanceEntries">
+        <item>I do not like long distance at all</item>
+        <item>I do not like long distance</item>
+        <item>I do not care about distance</item>
+        <item>I like long distance</item>
+        <item>I like long distance very much</item>
+    </string-array>
+
+    <string-array name="DistanceValues">
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="SupermarketEntries">
+        <item>I do not like supermarket at all</item>
+        <item>I do not like supermarket</item>
+        <item>I do not care about supermarket</item>
+        <item>I like supermarket</item>
+        <item>I like supermarket very much</item>
+    </string-array>
+    <string-array name="SupermarketValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="CoffeeshopEntries">
+        <item>I do not like coffee shop at all</item>
+        <item>I do not like coffee shop</item>
+        <item>I do not care about coffee shop</item>
+        <item>I like coffee shop</item>
+        <item>I like coffee shop very much</item>
+    </string-array>
+    <string-array name="CoffeeshopValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="ShoppingmallEntries">
+        <item>I do not like shopping mall at all</item>
+        <item>I do not like shopping mall </item>
+        <item>I do not care about shopping mall</item>
+        <item>I like shopping mall</item>
+        <item>I like shopping mall very much</item>
+    </string-array>
+    <string-array name="ShoppingmallValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+    <string-array name="CinemaEntries">
+        <item>I do not like cinema at all</item>
+        <item>I do not like cinema </item>
+        <item>I do not care about cinema</item>
+        <item>I like cinema</item>
+        <item>I like cinema very much</item>
+    </string-array>
+    <string-array name="CinemaValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="BarEntries">
+        <item>I do not like bars at all</item>
+        <item>I do not like bars </item>
+        <item>I do not care about bars</item>
+        <item>I like bars</item>
+        <item>I like bars very much</item>
+    </string-array>
+    <string-array name="BarValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="RestaurantEntries">
+        <item>I do not like restaurants at all</item>
+        <item>I do not like restaurants </item>
+        <item>I do not care about restaurants</item>
+        <item>I like restaurants</item>
+        <item>I like restaurants very much</item>
+    </string-array>
+    <string-array name="RestaurantValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
