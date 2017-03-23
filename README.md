@@ -5,4 +5,3 @@ This is an Android application project developed by Chao Luo. This is a location
 
 2. Proposed a recommendation algorithm considering GPS location sensing, preference perception, social interaction, and energy efficiency optimization.
 
-
