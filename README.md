@@ -7,7 +7,7 @@ This is an Android application project developed by Chao Luo. This is a location
 
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/16144725/24262888/e2b70a28-0fd1-11e7-8f5a-264b7ca38f93.png" width="350"/>
-  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+  <img src="https://cloud.githubusercontent.com/assets/16144725/24262888/e2b70a28-0fd1-11e7-8f5a-264b7ca38f93.png" width="200"/>
+  <img src="https://cloud.githubusercontent.com/assets/16144725/24262892/e88ebd42-0fd1-11e7-8126-a7ca014b8c43.png" width="200"/>
 </p>
 
